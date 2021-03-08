@@ -1,0 +1,16 @@
+body
+{
+    background-image: url("racing.gif");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#myCanvas
+{
+    border: ridge;
+    border-width: 10px;
+}
+h1,h4
+{
+	color: white !important;
+}
